@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "esModuleInterop": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2017",
+    "typeRoots": [
+      "types"
+    ]
+  },
+  "include": [
+    "src"
+  ]
+}
